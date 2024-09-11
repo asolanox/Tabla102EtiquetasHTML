@@ -1,0 +1,22 @@
+ 
+        body {
+            font-family: Times New Roman, sans-serif;
+            margin: 20px;
+			background-color: #FFFFBF ;
+			
+			
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+			
+        }
+        th {
+            background-color: #DBF9FC ;
+        }
+    
